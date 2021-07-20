@@ -4,15 +4,24 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- [![johndward01's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndward01)](https://github.com/johndward01/github-readme-stats)
+
+Adding private contributions count to total commits count
+- ![johndward01's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndward01&count_private=true)
+
+Showing icons
+- ![johndward01's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndward01&show_icons=true)
+
+Themes
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndward01&show_icons=true&theme=react)
+
+GitHub Extra Pins!!!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johndward01&repo=github-readme-stats)](https://github.com/johndward01/github-readme-stats)
 
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndward01&show_icons=true&theme=dark)
+
+
+
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndward01&show_icons=true&theme=react)
 ------------------------------------------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndward01&layout=compactshow_icons=true&theme=dark)](https://github.com//github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndward01&layout=compactshow_icons=true&theme=react)](https://github.com/johndward01/github-readme-stats)
