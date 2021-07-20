@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **johndward01/johndward01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +10,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndward01&show_icons=true&theme=dark)
+------------------------------------------------------------------------------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndward01&layout=compactshow_icons=true&theme=dark)](https://github.com//github-readme-stats)
