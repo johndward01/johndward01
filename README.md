@@ -4,11 +4,13 @@
 
 Here are some ideas to get you started:
 
-[![johndward01's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndward01)](https://github.com/johndward01/github-readme-stats)
+[![johndward01's GitHub stats](https://github-readme-stats-delta-liart.vercel.app
+/api?username=johndward01)](https://github.com/johndward01/github-readme-stats)
 
 Adding private contributions count to total commits count
 
-![johndward01's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndward01&count_private=true)
+![johndward01's GitHub stats](https://github-readme-stats-delta-liart.vercel.app
+/api?username=johndward01&count_private=true)
 
 Showing icons
 
