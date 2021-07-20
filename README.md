@@ -12,20 +12,20 @@ Adding private contributions count to total commits count
 
 Showing icons
 
-![johndward01's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndward01&show_icons=true)
+![johndward01's GitHub stats](https://github-readme-stats-delta-liart.vercel.app/api?username=johndward01&show_icons=true)
 
 Themes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndward01&show_icons=true&theme=react)
+![johndward01's GitHub stats](https://github-readme-stats-delta-liart.vercel.app/api?username=johndward01&show_icons=true&theme=react)
 
 GitHub Extra Pins!!!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johndward01&repo=github-readme-stats)](https://github.com/johndward01/github-readme-stats)
+[![Readme Card](https://github-readme-stats-delta-liart.vercel.app/api/pin/?username=johndward01&repo=github-readme-stats)](https://github.com/johndward01/github-readme-stats)
 
 
 
 
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndward01&show_icons=true&theme=react)
+![John's GitHub stats](https://github-readme-stats-delta-liart.vercel.app/api?username=johndward01&show_icons=true&theme=react)
 ------------------------------------------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndward01&layout=compactshow_icons=true&theme=react)](https://github.com/johndward01/github-readme-stats)
+[![Top Langs](https://github-readme-stats-delta-liart.vercel.app/api/top-langs/?username=johndward01&layout=compactshow_icons=true&theme=react)](https://github.com/johndward01/github-readme-stats)
