@@ -25,3 +25,12 @@ GitHub Extra Pins!!!
 ![John's GitHub stats](https://github-readme-stats-delta-liart.vercel.app/api?username=johndward01&show_icons=true&theme=react)
 ------------------------------------------------------------------------------------------------------
 [![Top Langs](https://github-readme-stats-delta-liart.vercel.app/api/top-langs/?username=johndward01&layout=compactshow_icons=true&theme=react)](https://github.com/johndward01/github-readme-stats)
+
+___
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
