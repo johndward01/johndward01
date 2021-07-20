@@ -4,9 +4,9 @@
 
 ___
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/johndward01/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-delta-liart.vercel.app/api/pin/?username=johndward01&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/johndward01/react_movie_demo">
+  <img align="center" src="https://github-readme-stats-delta-liart.vercel.app/api/pin/?username=johndward01&repo=react_movie_demo" />
 </a>
