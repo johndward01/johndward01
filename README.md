@@ -1,11 +1,5 @@
 ### Themes
 
-![johndward01's GitHub stats](https://github-readme-stats-delta-liart.vercel.app/api?username=johndward01&show_icons=true&theme=react)
-
-### GitHub Extra Pins!!!
-
-[![Readme Card](https://github-readme-stats-delta-liart.vercel.app/api/pin/?username=johndward01&repo=github-readme-stats)](https://github.com/johndward01/github-readme-stats)
-
 ![John's GitHub stats](https://github-readme-stats-delta-liart.vercel.app/api?username=johndward01&show_icons=true&theme=react)
 
 ___
