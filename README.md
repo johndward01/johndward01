@@ -9,6 +9,9 @@
   <img align="center" src="https://github-readme-stats-johndward01.vercel.app/api/pin/?username=johndward01&repo=Attendance_WPF-App&title_color=33b9ed&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=33b9ed" />
 </a>
 
+<br>
+<br>
+<br>
 
 |  📱 Contact  |  🤜🤛 Group  |  👨👩 Social  |
 |---|---|---|
@@ -16,6 +19,9 @@
 |  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  |  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />  | <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />   |
 | <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />   | <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />  | <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />  |
 
+<br>
+<br>
+<br>
 
 |  👩‍💻 Languages | 🚀 Frameworks  |
 |---|---|
@@ -26,15 +32,25 @@
 |  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> |   |
 |  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> |   |
  
+ <br>
+ <br>
+ <br>
 
 | 📱 Mobile Frameworks  | 🔀 Version Control  | 📦 Package Managers  | ⚡ Database  | 🎮🕹 Gaming  |  💲 Cryptocurrency | 📝 Blog  |
 |---|---|---|---|---|---|---|
 | <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />   | <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>  |  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> |  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />  |  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" /> | <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />  |
 |   | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  | <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/>  |   |  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/Ethereum-A6A9AA?style=for-the-badge&logo=ethereum&logoColor=white" />  |   |
    
+ <br>
+ <br>
+ <br>
+   
 # 👩‍💻 IDE
 
 | <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />  | <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />  | <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />  |  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" /> |
 |---|---|---|---|
 
-#  [🔝]
+<br>
+<br>
+
+#  [🔝](#)
