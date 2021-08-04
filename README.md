@@ -11,13 +11,13 @@
   <img align="center" src="https://github-readme-stats-johndward01.vercel.app/api/pin/?username=johndward01&repo=Attendance_WPF-App&title_color=33b9ed&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=33b9ed" />
 </a>
 
- # 📱 Contact | # 🤜🤛 Group | # 👨👩 Social | # 👩‍💻 Languages
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+ # 📱 Contact | # 🤜🤛 Group | # 👨👩 Social | 
+|:-------------------------:|:-------------------------:|:-------------------------:|
 
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> |
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> |
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> |
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
+ 
 
 
 
@@ -39,8 +39,9 @@
 <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" /> 
 
 
+# 👩‍💻 Languages
 
-
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
