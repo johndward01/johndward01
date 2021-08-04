@@ -1,4 +1,4 @@
-![John's GitHub stats](https://github-readme-stats-delta-liart.vercel.app/api?username=johndward01&show_icons=true&theme=react)
+![John's GitHub stats](https://github-readme-stats-delta-liart.vercel.app/api?username=johndward01&count_private=true&show_icons=true&theme=react)
 
 # Feature Repos
 
