@@ -42,6 +42,8 @@
 <br>
 <br>
 
+# ♟️🎤 Miscellaneous 🧩🎱
+
 | 📱 Mobile Frameworks  | 🔀 Version Control  | 📦 Package Managers  | ⚡ Database  | 🎮🕹 Gaming  |  💲 Cryptocurrency | 📝 Blog  |
 |---|---|---|---|---|---|---|
 | <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />   | <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>  |  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> |  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />  |  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" /> | <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />  |
