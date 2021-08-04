@@ -1,5 +1,8 @@
 ![John's GitHub stats](https://github-readme-stats-johndward01.vercel.app/api?username=johndward01&count_private=true&show_icons=true&theme=react)
 
+[![Top Langs](https://github-readme-stats-johndward01.vercel.app/api/top-langs/?username=johndward01&layout=compact)](https://github.com/johndward01/github-readme-stats)
+
+
 # Feature Repos
 
 <a href="https://github.com/johndward01/react_movie_demo">
