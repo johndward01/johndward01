@@ -1,6 +1,6 @@
 ![John's GitHub stats](https://github-readme-stats-johndward01.vercel.app/api?username=johndward01&count_private=true&show_icons=true&theme=react)
 
-![alt_text](https://github.com/johndward01/banner1.png)
+![alt_text](https://imgur.com/a/jvbYdBK)
 
 # Feature Repos
 
