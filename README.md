@@ -2,7 +2,7 @@
 
 # Feature Repos
 
-<a href="https://github.com/johndward01/ASP.NET-Core-MVC-Identity-Demo">
+<a href="https://github.com/johndward01/ASP.NET-Core-Identity-Demo">
   <img align="center" src="https://github-readme-stats-johndward01.vercel.app/api/pin/?username=johndward01&repo=ASP.NET-Core-MVC-Identity-Demo&title_color=33b9ed&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=33b9ed" />
 </a>
 <a href="https://github.com/johndward01/Mock-BestBuy-API">
