@@ -18,7 +18,7 @@
 ![GitHub Top Languages Pie Chart](imgs/github_languages_pie_chart.png)
 
 |  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> |  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />  | <img src="https://img.shields.io/badge/SQL-MySQL-00308F?style=for-the-badge&logo=SQL&logoColor=white" />  | 
-
+|---|---|---|
  
  # 👩‍💻 IDE
 
