@@ -14,7 +14,8 @@
 # 👩‍💻 Languages
 
 ### Language graph (TESTING IN PROGRESS...):
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndward01&langs_count=8)](https://github.com/johndward01/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndward01&langs_count=8)](https://github.com/johndward01/github-readme-stats) -->
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?johndward01" frameborder="0"></iframe>
 
 | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />  |  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> |
 |---|---|---|---|
