@@ -13,7 +13,7 @@
 
 <br>
 
-## 👩‍💻 Languages
+# 👩‍💻 Languages
 
 ![GitHub Top Languages Pie Chart](imgs/github_languages_pie_chart.png)
 
@@ -21,12 +21,12 @@
 |---|---|---|---|
 |  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> |  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />  | <img src="https://img.shields.io/badge/SQL-MySQL-00308F?style=for-the-badge&logo=SQL&logoColor=white" />  |   |
  
- ## 👩‍💻 IDE
+ # 👩‍💻 IDE
 
 | <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />  | <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />  | <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />  |  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" /> | <img src="https://img.shields.io/badge/API-Postman-orange?style=for-the-badge&logo=Postman" /> 
 |---|---|---|---|---|
 
-## 📇 Contact Me
+# 📇 Contact Me
 
 |  📱 Contact  |  🤜🤛 Group  |  👨👩 Social  |
 |---|---|---|
