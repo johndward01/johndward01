@@ -55,8 +55,8 @@
 
 -->
 
-![](https://komarev.com/ghpvc/?username=johndward01&style=for-the-badge)
-
 <br>
+
+![](https://komarev.com/ghpvc/?username=johndward01&style=for-the-badge)
 
 <!-- ###  [🔝](#) -->
