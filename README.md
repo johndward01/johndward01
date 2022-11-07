@@ -28,7 +28,7 @@
 
 # 👩‍💻 Languages
 
-![GitHub Top Languages Pie Chart](imgs/github_languages_pie_chart.png)
+<!-- ![GitHub Top Languages Pie Chart](imgs/github_languages_pie_chart.png) -->
 
 ![coding_activity](imgs/CodingActivity.png)
 
