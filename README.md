@@ -30,7 +30,7 @@
 
 <!-- ![GitHub Top Languages Pie Chart](imgs/github_languages_pie_chart.png) -->
 
-![coding_activity](imgs/CodingActivity.png)
+> ![coding_activity](imgs/CodingActivity.png)
 
 <a href="https://wakatime.com/share/@f2a5d814-56e7-442d-bb33-33dee80e7ab5/bd66f914-ee23-42df-9531-b2d9afc7dee5.svg">Coding Activity Over Last 7 Days</a>
 
