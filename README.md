@@ -1,12 +1,9 @@
-![](imgs/csharp-banner.gif)
+<!-- ![](imgs/csharp-banner.gif) -->
 
 ![John's GitHub stats](https://github-readme-stats-johndward01.vercel.app/api?username=johndward01&count_private=true&show_icons=true&theme=react)
 <!-- 📺 Create a nice pie chart with the user's programming languages from their GitHub profile. https://github.com/IonicaBizau/github-profile-languages -->
 
 # Feature Repos
-
-
-
 
 <a href="https://github.com/johndward01/ASP.NET-Core-MVC-Identity.NET6">
   <img align="center" src="https://github-readme-stats-johndward01.vercel.app/api/pin/?username=johndward01&repo=ASP.NET-Core-MVC-Identity.NET6&title_color=33b9ed&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=33b9ed" />
@@ -32,6 +29,8 @@
 # 👩‍💻 Languages
 
 ![GitHub Top Languages Pie Chart](imgs/github_languages_pie_chart.png)
+
+<figure><embed src="https://wakatime.com/share/@f2a5d814-56e7-442d-bb33-33dee80e7ab5/bd66f914-ee23-42df-9531-b2d9afc7dee5.svg"></embed></figure>
 
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-MySQL-00308F?style=for-the-badge&logo=SQL&logoColor=white" />  
 
