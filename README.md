@@ -34,6 +34,7 @@
 
 > <a href="https://wakatime.com/share/@f2a5d814-56e7-442d-bb33-33dee80e7ab5/bd66f914-ee23-42df-9531-b2d9afc7dee5.svg">Coding Activity Over Last 7 Days</a>
 
+<!-- 
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-MySQL-00308F?style=for-the-badge&logo=SQL&logoColor=white" />  
 
  
@@ -51,6 +52,8 @@
 | <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />   | <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />  | <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />  |
 
 <br>
+
+-->
 
 ![](https://komarev.com/ghpvc/?username=johndward01&style=for-the-badge)
 
