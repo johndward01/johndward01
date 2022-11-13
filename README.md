@@ -57,6 +57,6 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=johndward01&style=for-the-badge)
+<!-- ![](https://komarev.com/ghpvc/?username=johndward01&style=for-the-badge) -->
 
 <!-- ###  [🔝](#) -->
