@@ -1,5 +1,6 @@
 <!-- ![](imgs/csharp-banner.gif) -->
 
+<!-- 
 ![John's GitHub stats](https://github-readme-stats-johndward01.vercel.app/api?username=johndward01&count_private=true&show_icons=true&theme=react)
 <!-- 📺 Create a nice pie chart with the user's programming languages from their GitHub profile. https://github.com/IonicaBizau/github-profile-languages -->
 
@@ -58,3 +59,5 @@
 <!-- ![](https://komarev.com/ghpvc/?username=johndward01&style=for-the-badge) -->
 
 <!-- ###  [🔝](#) -->
+
+-->
