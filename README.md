@@ -1,11 +1,12 @@
 <!-- ![](imgs/csharp-banner.gif) -->
 
-<!-- 
+
 ![John's GitHub stats](https://github-readme-stats-johndward01.vercel.app/api?username=johndward01&count_private=true&show_icons=true&theme=react)
 <!-- 📺 Create a nice pie chart with the user's programming languages from their GitHub profile. https://github.com/IonicaBizau/github-profile-languages -->
 
-# Feature Repos
+<!-- # Feature Repos -->
 
+<!-- 
 <a href="https://github.com/johndward01/ASP.NET-Core-MVC-Identity.NET6">
   <img align="center" src="https://github-readme-stats-johndward01.vercel.app/api/pin/?username=johndward01&repo=ASP.NET-Core-MVC-Identity.NET6&title_color=33b9ed&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=33b9ed" />
 </a>
